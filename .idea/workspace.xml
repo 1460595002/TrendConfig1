@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0f5127a-17b2-440c-9be3-b43f2f6e7fd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/config/trend-trading-backtest-view-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringCloud-Demo/eureka-client/src/main/resources/application-replica.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringCloud-Demo/eureka-client/src/main/resources/application-security.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringCloud-Demo/eureka-security-server/src/main/java/cn/jinronga/springcloud/Config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringCloud-Demo/eureka-server/src/main/resources/application-replica1.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringCloud-Demo/eureka-server/src/main/resources/application-replica2.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/eureka-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/eureka-server/src/main/java/cn/jinronga/trend/EurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/eureka-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-codes-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-codes-service/src/main/java/cn/jinronga/trend/IndexCodesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-codes-service/src/main/java/cn/jinronga/trend/config/IpConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-codes-service/src/main/java/cn/jinronga/trend/config/RedisCacheConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-codes-service/src/main/java/cn/jinronga/trend/pojo/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-codes-service/src/main/java/cn/jinronga/trend/service/IndexService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-codes-service/src/main/java/cn/jinronga/trend/web/IndexContorller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-codes-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-data-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-data-service/src/main/java/cn/jinronga/trend/IndexDataApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-data-service/src/main/java/cn/jinronga/trend/config/IpConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-data-service/src/main/java/cn/jinronga/trend/config/RedisCacheConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-data-service/src/main/java/cn/jinronga/trend/pojo/IndexData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-data-service/src/main/java/cn/jinronga/trend/service/IndexDataService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-data-service/src/main/java/cn/jinronga/trend/web/IndexDataContorller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-data-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-gather-store-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-gather-store-service/src/main/java/cn/jinronga/trend/IndexGatherStoreApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-gather-store-service/src/main/java/cn/jinronga/trend/config/QuartzConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-gather-store-service/src/main/java/cn/jinronga/trend/config/RedisCacheConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-gather-store-service/src/main/java/cn/jinronga/trend/job/IndexDataSyncJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-gather-store-service/src/main/java/cn/jinronga/trend/pojo/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-gather-store-service/src/main/java/cn/jinronga/trend/pojo/IndexData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-gather-store-service/src/main/java/cn/jinronga/trend/service/IndexDataService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-gather-store-service/src/main/java/cn/jinronga/trend/service/IndexService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-gather-store-service/src/main/java/cn/jinronga/trend/util/SpringContextUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-gather-store-service/src/main/java/cn/jinronga/trend/web/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-gather-store-service/src/main/java/cn/jinronga/trend/web/IndexDataController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/index-gather-store-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/third-part-index-data-project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/third-part-index-data-project/src/main/java/cn/jinronga/trend/ThirdPartIndexDataApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/third-part-index-data-project/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/trend-trading-backtest-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/trend-trading-backtest-service/src/main/java/cn/jinronga/trend/TrendTradingBackTestServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/trend-trading-backtest-service/src/main/java/cn/jinronga/trend/client/IndexDataClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/trend-trading-backtest-service/src/main/java/cn/jinronga/trend/client/IndexDataClientFeignHystrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/trend-trading-backtest-service/src/main/java/cn/jinronga/trend/controller/BackTestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/trend-trading-backtest-service/src/main/java/cn/jinronga/trend/pojo/AnnualProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/trend-trading-backtest-service/src/main/java/cn/jinronga/trend/pojo/IndexData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/trend-trading-backtest-service/src/main/java/cn/jinronga/trend/pojo/Profit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/trend-trading-backtest-service/src/main/java/cn/jinronga/trend/pojo/Trade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/trend-trading-backtest-service/src/main/java/cn/jinronga/trend/service/BackTestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/trend-trading-backtest-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/trend-trading-backtest-view/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/trend-trading-backtest-view/src/main/java/cn/jinronga/trend/TrendTradingBackTestViewApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/trend-trading-backtest-view/src/main/java/cn/jinronga/trend/controller/ViewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/trend-trading-backtest-view/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/trend-trading-backtest-view/src/main/resources/templates/include/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trendParentProject/trend-trading-backtest-view/src/main/resources/templates/include/header.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\代码\Sping_Mybatis\TrendConfig\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\guge\repository" />
+        <option name="userSettingsFile" value="D:\guge\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xklsr6st766ON5QojoawArxMwG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0f5127a-17b2-440c-9be3-b43f2f6e7fd1" name="Default Changelist" comment="" />
+      <created>1581598182365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581598182365</updated>
+      <workItem from="1581598184642" duration="1579000" />
+    </task>
+    <task id="LOCAL-00001" summary="springcloud趋势投资系统">
+      <created>1581599132143</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581599132143</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="springcloud趋势投资系统" />
+    <option name="LAST_COMMIT_MESSAGE" value="springcloud趋势投资系统" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1415" y="94" key="#Project_Structure" timestamp="1581598235055">
+      <screen x="-1680" y="36" width="1344" height="800" />
+    </state>
+    <state x="-1415" y="94" key="#Project_Structure/-1680.36.1344.800/0.0.1536.824@-1680.36.1344.800" timestamp="1581598235055" />
+    <state x="-1404" y="36" key="CommitChangelistDialog2" timestamp="1581599797957">
+      <screen x="-1680" y="36" width="1344" height="800" />
+    </state>
+    <state x="-1404" y="36" key="CommitChangelistDialog2/-1680.36.1344.800/0.0.1536.824@-1680.36.1344.800" timestamp="1581599797957" />
+    <state x="-1227" y="177" key="FileChooserDialogImpl" timestamp="1581599856176">
+      <screen x="-1680" y="36" width="1344" height="800" />
+    </state>
+    <state x="-1227" y="177" key="FileChooserDialogImpl/-1680.36.1344.800/0.0.1536.824@-1680.36.1344.800" timestamp="1581599856176" />
+    <state x="-1146" y="326" key="Github.ShareDialog" timestamp="1581599736345">
+      <screen x="-1680" y="36" width="1344" height="800" />
+    </state>
+    <state x="-1146" y="326" key="Github.ShareDialog/-1680.36.1344.800/0.0.1536.824@-1680.36.1344.800" timestamp="1581599736345" />
+    <state x="-1506" y="78" key="SettingsEditor" timestamp="1581599573796">
+      <screen x="-1680" y="36" width="1344" height="800" />
+    </state>
+    <state x="-1506" y="78" key="SettingsEditor/-1680.36.1344.800/0.0.1536.824@-1680.36.1344.800" timestamp="1581599573796" />
+    <state x="-1221" y="227" key="git4idea.merge.GitPullDialog" timestamp="1581599749536">
+      <screen x="-1680" y="36" width="1344" height="800" />
+    </state>
+    <state x="-1221" y="227" key="git4idea.merge.GitPullDialog/-1680.36.1344.800/0.0.1536.824@-1680.36.1344.800" timestamp="1581599749536" />
+  </component>
+</project>
